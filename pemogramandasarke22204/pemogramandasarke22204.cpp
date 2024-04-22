@@ -12,4 +12,10 @@ class mahasiswa {
 			cout << "Umur: " << endl;
 			cout << "Jurusan: " << endl;
 		}
+
+};
+
+
+class matakuliah {
+
 };
